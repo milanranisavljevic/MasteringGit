@@ -1,3 +1,5 @@
 Dodato u amendu
 II amend
 III amend
+
+stage 1st commit
