@@ -3,3 +3,4 @@ II amend
 III amend
 
 stage 1st commit
+stage 2nd commit
