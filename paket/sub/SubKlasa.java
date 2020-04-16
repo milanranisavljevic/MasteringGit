@@ -1,4 +1,4 @@
-package com.novi.sub;
+package paket.sub;
 
 public class SubKlasa {
 }
