@@ -1,4 +1,4 @@
-package com.novi.paket;
+package paket;
 
 public class PaketKlasa {
 }
