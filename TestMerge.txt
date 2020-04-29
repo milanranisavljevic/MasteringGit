@@ -3,3 +3,4 @@ Test Merge
 Prvi Komit
 
 Master I komit
+Master II komit
