@@ -1,3 +1,5 @@
 Test Merge
 
 Prvi Komit
+
+Master I komit
