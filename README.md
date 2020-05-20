@@ -1,1 +1,2 @@
 # "MasteringGit" 
+promena na masteru
